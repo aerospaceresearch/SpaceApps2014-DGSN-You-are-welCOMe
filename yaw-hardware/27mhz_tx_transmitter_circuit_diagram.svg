@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="27mhz_tx_spaceapps.svg">
+   sodipodi:docname="27mhz_tx_transmitter_circuit_diagram.svg"
+   inkscape:export-filename="D:\GitHub\SpaceApps2014-DGSN-Your-are-welCOMe\yaw-hardware\27mhz_tx_transmitter_circuit_diagram.png"
+   inkscape:export-xdpi="290.21381"
+   inkscape:export-ydpi="290.21381">
   <defs
      id="defs4">
     <marker
@@ -93,7 +96,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84956074"
      inkscape:cx="422.10939"
