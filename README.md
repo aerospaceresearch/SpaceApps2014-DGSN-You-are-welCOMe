@@ -1,4 +1,4 @@
-SpaceApps2014-DGSN-Your-are-welCOMe
+SpaceApps2014-DGSN-You-are-welCOMe
 ============
 
 arduino transmission experiments
